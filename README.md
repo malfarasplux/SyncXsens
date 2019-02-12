@@ -24,6 +24,12 @@ https://bitalino.com/en/plugged-kit-bt
 - Pyhton (v > 3.5)  
 https://www.python.org/downloads/
 
+- PLUX BITalino OpenSignals (r)evolution Software  
+https://bitalino.com/en/software
+
+- MIDO MIDI Python library  
+https://mido.readthedocs.io/en/latest/
+
 - (Recommended) Anaconda + Python
  https://www.anaconda.com/download/
 
@@ -31,8 +37,10 @@ https://www.python.org/downloads/
 https://pypi.org/project/bitalino/  
 https://github.com/BITalinoWorld/revolution-python-api  
 
-- PLUX BITalino OpenSignals (r)evolution Software  
-https://bitalino.com/en/software
+- (Recommended) Pynput library for Keyboard events listener  
+https://pypi.org/project/pynput/
+
+
 
 ##  2. Other useful resources <a name="resrc"></a>  
 - loopMIDI  
