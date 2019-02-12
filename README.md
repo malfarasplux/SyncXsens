@@ -1,7 +1,10 @@
 # SyncXsens
 Synchrony exploration through a sensing lens (BITalino OpenSignals + python)
 
-[1. Resources needed](#prereq)  
+[1. Tools required](#prereq)  
+[2. Extra resources](#resrc)  
+[3. Configuration](#config)  
+
 
 ##  1. Tools required <a name="prereq"></a>
 - Pyhton (v > 3.5)  
