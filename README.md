@@ -7,7 +7,12 @@ Synchrony exploration through a sensing lens (BITalino OpenSignals + python)
 
 
 # ACCTEST
-ACCTEST is a python script that connects to BITalino data streamed through OpenSignals(r). When connected to a virtual MIDI port that plays a basic major chord, the script lets the user explore the concept of synchrony by means of using two 1-axis accelerometers moved at the same time. 
+ACCTEST is a python script that connects to BITalino data streamed through OpenSignals(r). 
+The choice of identical objects for the ACC sensors to be placed, allow the user to experience how audio feedback can help exploring the concept of synchrony.
+
+When connected to a virtual MIDI port that plays a basic major chord, the script lets the user explore the concept of synchrony by means of using two 1-axis accelerometers (ACC) moved at the same time.  
+![ACC](/img/SyncXsens_ACC.jpg)
+
 
 
 ##  1. Tools required <a name="prereq"></a>
