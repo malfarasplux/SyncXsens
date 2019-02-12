@@ -30,7 +30,7 @@ https://bitalino.com/en/software
 - MIDO MIDI Python library  
 https://mido.readthedocs.io/en/latest/
 
-- (Recommended) Anaconda + Python
+- (Recommended) Anaconda + Python  
  https://www.anaconda.com/download/
 
 - (Recommended) BITalino revolution API  
