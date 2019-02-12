@@ -56,7 +56,7 @@ https://asb2m10.github.io/dexed/
 2. Turn your device on and select the 2 channels used as RAW 100Hz  
 ![RAW](/img/RAW.jpg)
 
-3. Set the TCP integreation checkbox ON and default port. 
+3. Set the TCP integration checkbox ON and default port. 
 ![TCP](/img/TCP_checked.jpg)
 
 4. When launched, make sure the websocket connects to your local TCP/IP. IP can be manually input in the code.
