@@ -30,7 +30,7 @@ https://asb2m10.github.io/dexed/
 ##  3. Configuration <a name="config"></a>  
 1. Ensure you count on a MIDI virtual port mapped to a MIDI software
 2. Turn your device on and select the 2 channels used as RAW 100Hz  
-![RAW](https://drive.google.com/file/d/1SfXDtIMcgc6fQ5LJeEpd7S_3olbfRVve/view?usp=sharing "raw")
+![RAW](/img/RAW.jpg)
 
 3. Set the TCP integreation checkbox ON and default port. 
 4. When launched, make sure the websocket connects to your local TCP/IP. IP can be manually input in the code.
