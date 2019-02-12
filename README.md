@@ -17,6 +17,9 @@ When connected to a virtual MIDI port that plays a basic major chord, the script
 
 
 ##  1. Tools required <a name="prereq"></a>
+- PLUX BITalino revolution plugged kit BT + 2xACC
+https://bitalino.com/en/plugged-kit-bt
+
 - Pyhton (v > 3.5)  
 https://www.python.org/downloads/
 
