@@ -2,8 +2,9 @@
 Synchrony exploration through a sensing lens (BITalino OpenSignals + python)
 
 [1. Tools required](#prereq)  
-[2. Extra resources](#resrc)  
-[3. Configuration](#config)  
+[2. Sensing platform documentation](#docs)  
+[3. Extra resources](#resrc)  
+[4. Configuration](#config)  
 
 
 # ACCTEST
@@ -41,15 +42,21 @@ https://github.com/BITalinoWorld/revolution-python-api
 https://pypi.org/project/pynput/
 
 
+##  2. Sensing platform documentation <a name="docs"></a>
+- PLUX BITalino revolution plugged BT    
+https://bitalino.com/en/plugged-kit-bt 
 
-##  2. Other useful resources <a name="resrc"></a>  
+- PLUX BITalino 1-axis accelerometer (ACC)  
+https://bitalino.com/datasheets/REVOLUTION_ACC_Sensor_Datasheet.pdf  
+
+##  3. Other useful resources <a name="resrc"></a>  
 - loopMIDI  
 https://www.tobias-erichsen.de/software/loopmidi.html
 
 - Dexed  
 https://asb2m10.github.io/dexed/
 
-##  3. Configuration <a name="config"></a>  
+##  4. Configuration <a name="config"></a>  
 1. Ensure you count on a MIDI virtual port mapped to a MIDI software
 ![MIDI](/img/MIDI_port.jpg)
 
